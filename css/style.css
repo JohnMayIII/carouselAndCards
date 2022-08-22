@@ -1,0 +1,14 @@
+*{box-sizing: border-box;}
+
+.carousel-image{
+    max-height: 600px;
+}
+
+.section{
+    padding: 50px 0;
+}
+
+.logo{
+    color: #109eff;
+    text-transform: uppercase;
+}
